@@ -1,0 +1,25 @@
+2015-06-01 06:24:10,601,logger name,DEBUG,a debug message
+2015-06-01 06:24:10,605,logger name,INFO,an info message
+2015-06-01 06:24:10,608,logger name,WARNING,A Checkout this warning.
+2015-06-01 06:24:10,610,logger name,ERROR,An error writen here.
+2015-06-01 06:24:10,613,logger name,CRITICAL,Something very critical happened.
+2015-06-01 06:24:31,912,logger name,DEBUG,a debug message
+2015-06-01 06:24:31,915,logger name,INFO,an info message
+2015-06-01 06:24:31,919,logger name,WARNING,A Checkout this warning.
+2015-06-01 06:24:31,921,logger name,ERROR,An error writen here.
+2015-06-01 06:24:31,923,logger name,CRITICAL,Something very critical happened.
+2015-06-01 06:24:39,565,logger name,DEBUG,a debug message
+2015-06-01 06:24:39,570,logger name,INFO,an info message
+2015-06-01 06:24:39,573,logger name,WARNING,A Checkout this warning.
+2015-06-01 06:24:39,575,logger name,ERROR,An error writen here.
+2015-06-01 06:24:39,577,logger name,CRITICAL,Something very critical happened.
+2015-06-01 06:26:51,915,logger name,DEBUG,a debug message
+2015-06-01 06:26:51,931,logger name,INFO,an info message
+2015-06-01 06:26:51,933,logger name,WARNING,A Checkout this warning.
+2015-06-01 06:26:51,937,logger name,ERROR,An error writen here.
+2015-06-01 06:26:51,940,logger name,CRITICAL,Something very critical happened.
+2015-06-01 06:27:21,475,logger name,DEBUG,a debug message
+2015-06-01 06:27:21,479,logger name,INFO,an info message
+2015-06-01 06:27:21,486,logger name,WARNING,A Checkout this warning.
+2015-06-01 06:27:21,493,logger name,ERROR,An error writen here.
+2015-06-01 06:27:21,498,logger name,CRITICAL,Something very critical happened.
